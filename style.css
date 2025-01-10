@@ -147,7 +147,7 @@ http://stackoverflow.com/a/34696029/383904
 .CSSgal a {
 	border-radius: 50%;
 	margin: 0 3px;
-	color: rgba(0,0,0,0.8);
+	color: green;
 	text-decoration: none;
 }
 
